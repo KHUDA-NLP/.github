@@ -7,10 +7,10 @@ assignees: ''
 
 ---
 
-# 👀 이슈 (issue) 
+## 👀 이슈 (issue) 
 
 - [tag] KoBert 모델 파라미터 튜닝입니다.
 
-# 🚀 Challenge ToDo
+## 🚀 ToDo_LIST
 
 - [tag] 새로운 데이터셋 학습입니다.
